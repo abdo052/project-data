@@ -1,79 +1,77 @@
 {
- "data":   {
-        "users": [
-          {
-            "name": "ramadan aborabeh", 
-            "email": "abdullah@sls.com",
-            "password": "11111111111",
-            "id": 1
-          },
-          {
-            "name": "abdullah ramadan",
-            "email": "abdullah@sls.com",
-            "password": "11111111111",
-            "id": 1
-          },
-          {
-            "name": "abdullah ramadan",
-            "email": "abdullah@due.com",
-            "password": "11111111111",
-            "id": 2
-          },
-          {
-            "name": "abdullah ramadan",
-            "email": "abdullah@due.com",
-            "password": "11111111111sssa",
-            "id": 3
-          },
-          {
-            "name": "Abdullah Ramadan",
-            "email": "abdullah@sad.co",
-            "password": "121212",
-            "id": 4
-          },
-          {
-            "name": "Abdullah Aborabeh",
-            "email": "a1@sd.co",
-            "password": "121212",
-            "id": 5
-          }
-        ],
-        "locations": [
-          {
-            "name": "Potato Chips",
-            "phone": "1234556789",
-            "adress": "Cairo Egypt 1str",
-            "userId": 2,
-            "id": 4
-          },
-          {
-            "name": "Potato Chips",
-            "phone": "123456789",
-            "adress": "Cairo Salam 34Str",
-            "userId": 2,
-            "id": 5
-          },
-          {
-            "name": "Potato Chips",
-            "phone": "123456789",
-            "adress": "Alex Samira A Str43",
-            "userId": 4,
-            "id": 1
-          },
-          {
-            "name": "Potato Chips",
-            "phone": "123456789",
-            "adress": "Alex Samira A Str43",
-            "userId": 4,
-            "id": 2
-          },
-          {
-            "name": "Chips Top",
-            "phone": "123456789",
-            "adress": "Chips top 33",
-            "userId": 4,
-            "id": 6
-          }
-        ]
-      }
+  "users": [
+    {
+      "name": "ramadan aborabeh",
+      "email": "abdullah@sls.com",
+      "password": "11111111111",
+      "id": 1
+    },
+    {
+      "name": "abdullah ramadan",
+      "email": "abdullah@sls.com",
+      "password": "11111111111",
+      "id": 1
+    },
+    {
+      "name": "abdullah ramadan",
+      "email": "abdullah@due.com",
+      "password": "11111111111",
+      "id": 2
+    },
+    {
+      "name": "abdullah ramadan",
+      "email": "abdullah@due.com",
+      "password": "11111111111sssa",
+      "id": 3
+    },
+    {
+      "name": "Abdullah Ramadan",
+      "email": "abdullah@sad.co",
+      "password": "121212",
+      "id": 4
+    },
+    {
+      "name": "Abdullah Aborabeh",
+      "email": "a1@sd.co",
+      "password": "121212",
+      "id": 5
+    }
+  ],
+  "locations": [
+    {
+      "name": "Potato Chips",
+      "phone": "1234556789",
+      "adress": "Cairo Egypt 1str",
+      "userId": 2,
+      "id": 4
+    },
+    {
+      "name": "Potato Chips",
+      "phone": "123456789",
+      "adress": "Cairo Salam 34Str",
+      "userId": 2,
+      "id": 5
+    },
+    {
+      "name": "Potato Chips",
+      "phone": "123456789",
+      "adress": "Alex Samira A Str43",
+      "userId": 4,
+      "id": 1
+    },
+    {
+      "name": "Potato Chips",
+      "phone": "123456789",
+      "adress": "Alex Samira A Str43",
+      "userId": 4,
+      "id": 2
+    },
+    {
+      "name": "Chips Top",
+      "phone": "123456789",
+      "adress": "Chips top 33",
+      "userId": 4,
+      "id": 6
+    }
+  ]
 }
